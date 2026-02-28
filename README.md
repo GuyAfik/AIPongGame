@@ -1,6 +1,6 @@
 # 🏓 AI Pong Game
 
-<video src="docs/recording.mp4" autoplay loop muted playsinline width="100%"></video>
+> 🎬 **[Watch Demo Video](https://github.com/GuyAfik/AIPongGame/blob/master/docs/recording.mp4)**
 
 A classic Pong game built with **pygame** and a locally-trained **Deep Q-Network (DQN)** AI opponent. No cloud APIs, no LLMs — the AI learns entirely on your machine using Reinforcement Learning.
 
