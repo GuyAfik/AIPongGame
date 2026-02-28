@@ -1,3 +1,24 @@
+# ============================================================
+# AI Pong Game — project-specific ignores
+# ============================================================
+
+# Generated training artifacts (logs and charts — regenerated each run)
+models/training_log.txt
+models/training_plot.png
+
+# NOTE: models/*.pth (trained weights) ARE committed so cloners can play immediately.
+# They are only 144KB — safe to include in git.
+
+# uv virtual environment
+.venv/
+
+# macOS metadata
+.DS_Store
+
+# ============================================================
+# Python standard ignores
+# ============================================================
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
