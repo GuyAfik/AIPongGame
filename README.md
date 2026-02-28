@@ -1,5 +1,7 @@
 # 🏓 AI Pong Game
 
+<video src="docs/recording.mov" autoplay loop muted playsinline width="100%"></video>
+
 A classic Pong game built with **pygame** and a locally-trained **Deep Q-Network (DQN)** AI opponent. No cloud APIs, no LLMs — the AI learns entirely on your machine using Reinforcement Learning.
 
 ---
